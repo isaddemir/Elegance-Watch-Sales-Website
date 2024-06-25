@@ -2,7 +2,7 @@
 This repository is an imaginary example of a watch sales website. This site allows users to learn about various 
 watch models and make purchases.The website is a simple project designed using HTML, CSS, and JavaScript. <br> 
 
-To see the demo version of the website, click [here](https://devbox-website-example.netlify.app/).
+To see the demo version of the website, click [here](https://elegance-watch-sales-website.netlify.app/).
 
 ### Website Preview
 
